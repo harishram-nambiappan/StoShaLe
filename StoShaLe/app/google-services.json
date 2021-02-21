@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083684217407",
+    "project_id": "stoshale",
+    "storage_bucket": "stoshale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083684217407:android:caefc3917abfd59eea4e8a",
+        "android_client_info": {
+          "package_name": "com.harishram.stoshale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083684217407-uvu8ttmvn94b01ckta5ie927sbg0udep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1U4vC4EdqlsEBZ0xgQibyHyV_g2fMTHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083684217407-uvu8ttmvn94b01ckta5ie927sbg0udep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
